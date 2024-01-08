@@ -1,0 +1,24 @@
+--- Dia 1: Trebuchet?! ---
+
+Algo está errado com a produção global de neve, e você foi selecionado para dar uma olhada. Os Elfos até lhe deram um mapa; nele, eles usaram estrelas para marcar os cinquenta principais locais que provavelmente terão problemas.
+
+Você está fazendo isso há tempo suficiente para saber que para restaurar as operações de neve, você precisa verificar todas as cinquenta estrelas até 25 de dezembro.
+
+Colete estrelas resolvendo quebra-cabeças. Dois quebra-cabeças serão disponibilizados em cada dia no calendário do Advento; o segundo quebra-cabeça é desbloqueado quando você completar o primeiro. Cada quebra-cabeça concede uma estrela. Boa sorte! Boa sorte!
+
+Você tenta perguntar por que eles não podem simplesmente usar uma máquina meteorológica ("não poderoso o suficiente") e onde eles estão até enviando você ("o céu") e por que seu mapa parece principalmente em branco ("você com certeza faz muitas perguntas") e segurá-lo apenas dizendo o céu ("é claro, de onde você acha que a neve vem") quando você percebe que os elfos já estão carregando você em um trabuco ("por favor, segure-se ainda, precisamos amarrá-lo").
+
+Como eles estão fazendo os ajustes finais, eles descobrem que seu documento de calibração (sua entrada de quebra-cabeça) foi alterado por um elfo muito jovem que aparentemente estava animado para mostrar suas habilidades artísticas. Consequentemente, os elfos estão tendo problemas para ler os valores no documento.
+
+O documento de calibração recém-melhorado consiste em linhas de texto; cada linha originalmente continha um valor de calibração específico que os Elfos precisam recuperar. Em cada linha, o valor de calibração pode ser encontrado combinando o primeiro dígito e o último dígito (na ordem) para formar um único número de dois dígitos.
+
+Por exemplo:
+
+1abc2
+pqr3stu8vwx
+a1b2c3d4e5f
+treb7uchet
+
+Neste exemplo, os valores de calibração dessas quatro linhas são 12,, , - A , de frente para o que sobre o que sobre, , sobre o que sobre o 38,, , - A , de frente para o que sobre o que sobre, , sobre o que sobre o 15, e 77- A . (í a , , , , , ínte , . Adição desses em conjunto produz 142- A . (í a , , , , , ínte , .
+
+Considere todo o seu documento de calibração. Qual é a soma de todos os valores de calibração?
